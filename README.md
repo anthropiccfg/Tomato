@@ -2,7 +2,10 @@
 * Watch on Smart TVs.
 
 # Compatible devices
-* TV, computer, mobile phone, tablet
+* TV, computer, mobile phone, tablet and more
+
+# Another repository of movies and series and more:
+https://anthropiccfg.github.io/aboutnetflix/
 
 # Watch everywhere.
 * Stream unlimited movies and TV shows on your phone, tablet, laptop, and TV.
