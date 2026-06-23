@@ -20,5 +20,5 @@ https://anthropiccfg.github.io/aboutnetflix/
 # Is it suitable for children?
 * The children's experience is designed so that children can have fun in their own space with family-friendly series and movies under the supervision of adults.
 
-# Quer um project só de canais? (mais de 100 canais):📺👇🏻
+# Quer um project só de canais? (mais de 200 canais):📺👇🏻
 https://github.com/vegascfg/TomatoTV
