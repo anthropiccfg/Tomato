@@ -1,6 +1,6 @@
 # How to access/to use
 * Just go to this website, it's simple.
-https://anthropiccfg.github.io/Tomato
+https://anthropiccfg.github.io/Claude
 
 # Enjoy on your TV.
 * Watch on Smart TVs.
