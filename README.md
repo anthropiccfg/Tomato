@@ -1,6 +1,6 @@
 # How to access/to use
 * Just go to this website, it's simple.
-https://anthropiccfg.github.io/Claude
+https://anthropicdev.github.io/Claude
 
 # Enjoy on your TV.
 * Watch on Smart TVs.
@@ -9,7 +9,7 @@ https://anthropiccfg.github.io/Claude
 * TV, computer, mobile phone, tablet and more
 
 # Another repository of movies and series and more:
-https://anthropicdev.github.io/aboutnetflix/
+https://anthropicdev.github.io/aboutnetflix
 
 # Watch everywhere.
 * Stream unlimited movies and TV shows on your phone, tablet, laptop, and TV.
