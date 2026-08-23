@@ -9,7 +9,7 @@ https://anthropiccfg.github.io/Claude
 * TV, computer, mobile phone, tablet and more
 
 # Another repository of movies and series and more:
-https://anthropiccfg.github.io/aboutnetflix/
+https://anthropicdev.github.io/aboutnetflix/
 
 # Watch everywhere.
 * Stream unlimited movies and TV shows on your phone, tablet, laptop, and TV.
@@ -21,4 +21,4 @@ https://anthropiccfg.github.io/aboutnetflix/
 * The children's experience is designed so that children can have fun in their own space with family-friendly series and movies under the supervision of adults.
 
 # Do you want a repository just for channels? (more than 200 channels):📺👇🏻
-https://github.com/anthropiccfg/TomatoTV
+https://github.com/anthropicdev/TomatoTV
