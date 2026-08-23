@@ -21,4 +21,4 @@ https://claudeanthropic.github.io/aboutnetflix
 * The children's experience is designed so that children can have fun in their own space with family-friendly series and movies under the supervision of adults.
 
 # Do you want a repository just for channels? (more than 200 channels):📺👇🏻
-https://github.com/anthropicdev/TomatoTV
+https://github.com/claudeanthropic/TomatoTV
